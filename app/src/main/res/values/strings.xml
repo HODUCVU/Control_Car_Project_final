@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Control Car Max Pro Vip</string>
+    <string name="connectToCar">Connect To Car</string>
+    <string name="turnOff">Turn Off</string>
+    <string name="discoverable">Discoverable</string>
+    <string name="paire">Paire Device</string>
+    <string name="status">Status: </string>
+</resources>
